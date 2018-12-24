@@ -3,7 +3,7 @@
 
 form Get spectrum and oscilogram from 
   comment Where should the script write a result files?
-  text directory /home/agricolamz/work/scripts/praat/create_pictures_from_annotation/
+  text directory /home/.../
   comment Which tier is the basis for picture frame?
   integer picturetier 3
   comment Which tier is a word tier?
