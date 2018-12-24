@@ -1,4 +1,4 @@
-is script takes multiple audio and TextGrids from Praat object list and extract all non-empty fragments from the selected tier, save to seperate files spectrum and oscilogram.  Names for the files and for the picture title are taken from other tiers (word tier and utterance tier) and filenames.
+This script takes multiple audio and TextGrids from Praat object list and extract all non-empty fragments from the selected tier, save to seperate files spectrum and oscilogram.  Names for the files and for the picture titles are taken from other tiers (word tier and utterance tier) and filenames.
 
 The script expects to have following tiers:
 
